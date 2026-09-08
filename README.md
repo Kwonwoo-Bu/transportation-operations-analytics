@@ -89,17 +89,19 @@ SQL analysis was used to evaluate airline and route delay rates, monthly delay p
 
 ```text
 transportation-operations-analytics/
-├── Data/
+├── data/
 │   ├── raw/
 │   └── processed/
-├── Notebooks/
+├── notebooks/
 │   ├── 01_data_quality.ipynb
 │   ├── 02_exploratory_analysis.ipynb
 │   └── 03_business_analysis.ipynb
-├── Sql/
+├── sql/
 │   └── 04_sql_analysis.ipynb
 ├── requirements.txt
 └── README.md
+
+```
 
 ## Data Availability
 
